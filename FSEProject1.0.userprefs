@@ -1,9 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\trackMove.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\uiManager.cs">
     <Files>
-      <File FileName="Assets\scripts\trackMove.cs" Line="18" Column="55" />
+      <File FileName="Assets\scripts\trackMove.cs" Line="1" Column="1" />
       <File FileName="Assets\scripts\carController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EnemyCarMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\carSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EnemyDestroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets\uiManager.cs" Line="44" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
